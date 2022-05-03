@@ -7,7 +7,8 @@ codeforces solutions
   <li>codeforces contests {div2,div3,div4}</li>
   <li>Dr mostafa saad sheets</li>
   <li>Assiut sheets</li>
-  <li>Al-azhar sheets/<li>
+  <li>Al-azhar sheets</li>
   </ol>
   <h3>Contact : </h3>
-  <a href="https://www.facebook.com/mohammadahmed.khalifa" style="margin:auto">Facebook</a>
+  <a href="https://www.facebook.com/mohammadahmed.khalifa">Facebook</a>
+  <a href="https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%84%D9%8A%D9%81%D9%87-13a473204/">linkedin</a>
