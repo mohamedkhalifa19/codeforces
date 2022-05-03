@@ -1,3 +1,3 @@
 # codeforces
 codeforces solutions
-<h1>Hi, I am Mohamed Khalifa
+<h1 style="text-align:center;color:green">Hi, I am Mohamed Khalifa
