@@ -1,4 +1,4 @@
 # codeforces
 codeforces solutions
 <h1 style="text-align:center;color:green">Hi, I am Mohamed Khalifa 👋</h1>
-<img src="https://codeforces.org/s/0/images/codeforces-telegram-square.png" style="width:100%;"</img>
+<img src="https://codeforces.org/s/0/images/codeforces-telegram-square.png" style="width:100%; height:250px"</img>
